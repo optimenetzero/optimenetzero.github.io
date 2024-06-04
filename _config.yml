@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. De Silva
+  copyright: Dr. Disni
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://linkedin.com/in
+    url: http://linkedin.com/in/disni-gamaralalage-6169b08a/
 #  - title: facebook
 #    url:
 #  - title: stack-overflow
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 118, Sutton Passeys Crescent
+  - line: Nottingham, NG8 1BU
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
