@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Disni
+  copyright: 
   location: Location
   social: Around the Web
-  credits: Credits
+ # credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 118, Sutton Passeys Crescent
+  - line: Sutton Passeys Crescent
   - line: Nottingham, NG8 1BU
 
 # Credits content
