@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-06-05
-img: lca.png
+img: LCA.png
 alt: image-alt
 project-date: June 2024
 client: how can we help
