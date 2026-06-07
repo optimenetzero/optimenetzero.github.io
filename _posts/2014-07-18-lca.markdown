@@ -8,11 +8,19 @@ project-date: June 2024
 client: how can we help
 category: Product Assessment (LCA, PCF, EPD, 3rd party validation)
 description: |
-  Product Environmental Assessment
+Product Environmental Assessment
   
-  Life Cycle Assessment (LCA) is a method use to measure the environmental impacts of a product, process or a         service over its life cycle. A LCA considers the entire lifecle from raw material extraction to end-of-life      disposal, quantifing energy consumptions, carbon emissions, water use and waste providing comprehensive insights    to inform the organisation on potential improvements in achieving sustainability.
+We quantify and validate the environmental impact of products and processes using life cycle-based methods. This supports product claims, customer requirements, and certification standards.
+We also review and improve existing studies to ensure methodological robustness and compliance with relevant frameworks.
 
-  How can we help? 
-  
-  We perform comprehensive LCA studies, all of which can be tailored to suit your specific needs     and objectives   to steer your business towards sustainable practices and products.
+What we help you answer:
+•	What is the environmental impact of my product? 
+•	How does it compare to alternatives or competitors? 
+•	Is my LCA or product data robust and compliant? 
+Includes:
+•	Life Cycle Assessment (LCA) 
+•	Product Carbon Footprints (PCFs) 
+•	Environmental Product Declarations (EPDs) 
+•	LCA review, validation, and improvement 
+
 ---
