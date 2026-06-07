@@ -7,7 +7,7 @@ alt: image-alt
 project-date: June 2024
 client: how can we help
 category: Product Assessment (LCA, PCF, EPD, 3rd party validation)
-description: |
+description:
 Product Environmental Assessment
   
 We quantify and validate the environmental impact of products and processes using life cycle-based methods. This supports product claims, customer requirements, and certification standards.
