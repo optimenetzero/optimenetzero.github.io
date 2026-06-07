@@ -13,12 +13,12 @@ description: |
 
   We also review and improve existing studies to ensure methodological robustness and compliance with relevant frameworks.
 
-  What we help you answer
+ ### What we help you answer
   - What is the environmental impact of my product?
   - How does it compare to alternatives or competitors?
   - Is my LCA or product data robust and compliant?
 
-  Includes
+ ### Includes
   - Life Cycle Assessment (LCA)
   - Product Carbon Footprints (PCFs)
   - Environmental Product Declarations (EPDs)
