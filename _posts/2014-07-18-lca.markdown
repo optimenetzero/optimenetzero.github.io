@@ -6,7 +6,7 @@ img: LCA.png
 alt: image-alt
 project-date: June 2024
 client: how can we help
-category: LCA
+category: Product Assessment (LCA, PCF, EPD, 3rd party validation)
 description: |
   What is LCA?
   
